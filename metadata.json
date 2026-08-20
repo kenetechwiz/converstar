@@ -1,0 +1,8 @@
+{
+  "name": "Converstar - Conversion Rate Optimization & Social Proof SaaS",
+  "description": "The official multi-page marketing platform for Converstar, featuring behavioral triggers, infinite social proof widgets, multi-channel direct chat, and real-time CRO analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
